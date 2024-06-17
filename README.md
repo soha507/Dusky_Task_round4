@@ -1,4 +1,4 @@
-## Technical report on AI software engineer
+## Technical report on AI CODE GENERATION TOOL
   - Click [here](https://mistral.ai/news/codestral/) to go into the mistral.ai company website.
   - It will open like this 
 ![image](https://github.com/soha507/Dusky_Task_round4/assets/109614125/a39ab396-e2b4-473b-b212-b3e256515ee8)
